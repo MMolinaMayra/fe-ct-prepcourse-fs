@@ -1,0 +1,16 @@
+Variables: Podemos definir a una variable como un lugar o recipiente donde guardamos jueguetes, 
+o en este caso tipos de datos, que vamos a utilizar después. Podemos tener varios recipientes o 
+variables para guardar distintos juguetes o tipos de datos.
+Strings: los strings vendrían a ser  los juguetes o tipos de datos que podemos almacenar en nuestro recipiente o
+ variable. Se diferencian de los demás porque son palabras que siempre van acompañadas de comillas dobles o simples.
+Funciones (argumentos, return): Las funciones son las distintas formas en que podemos utilizar los juguetes o 
+tipos de datos que guardamos en las variables. Sirven para calcularlas, cambiarlas, etc. Comienzan con la palabra 
+clave "function". Argumentos: dichas funciones van acompañadas de argumentos. Los argumentos son variables que
+agregamos a nuestra funcion a manera de indicarle sobre qué juguete o tipo de dato se va a aplicar dicha función. 
+Podemos agregar muchos argumentos separándolos con una coma.
+Declaraciones: Return: nos devuelve lo que indiquemos dentro de una función determinada, por ejemplo de una suma, 
+nos devuelve el correspondiente reultado. Es como lanzar una pelota contra una pared, lo que sucede es que rebota 
+y vuelve hacia nosotros.
+Valores booleanos (true, false): Son aquellos que tienen unicamente dos respuestas, true (verdadero) y false 
+(falso). Como un vaso de helado que tiene solo dos sabores. Por ejemplo, dentro de una función, donde buscamos usar, 
+solamente numeros pares, al usarlos, nos devolverá la respuesta 'true', en caso contrario será 'false'.
