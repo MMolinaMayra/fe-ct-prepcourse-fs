@@ -1,0 +1,14 @@
+for: el bucle "for" es como un automovil que avanza por una avenida hasta que aparece un cartel de "stop", 
+que en este caso sería un "false".
+&&: o "AND" es un operador lógico que compara dos o más expresiones y devuelve "true" solamente si todas ellas 
+son verdaderas o correctas, de lo contrario devolverá "false". Podemos compararlo como un perrito cuyo nombre 
+es "Andy" y al cual le servimos en un mismo plato varios sabores de alimento, él solamente comerá del plato 
+(es decir, devolverá 'true') si toda la comida es sabor carne (cuando todos los datos son correctos) y rechazará
+ el plato (devolverá 'false') si detecta cualquier otro sabor.
+||: también conocido como "OR"es un aperador lógico que al igual que && compara dos o más expresiones pero en 
+este caso devuelve "true" cuando una o más son correctas. Lo comparamos con una perrita que llamaremos (Oriana)
+ a la cual le servimos un plato de comida que contiene varios sabores, carne (dato correcto) y espinaca 
+ (dato incorrecto). Ella aceptará el plato (devolverá true) siempre y cuando en el plato , al menos uno de los
+  sabores sea carne. Si por el contrario le servimos un plato con dos sabores como espinaca y remolacha (ningún 
+  dato es correcto) ella rechazará el alimento, (devolverá false).
+!: O también llamado "NOT" es el último operados lógico, sirve para devolver un valor opuesto al que se le pasa.
