@@ -1,0 +1,4 @@
+Arrays: Podemos comparar los arrays o arreglos con un mueble con estantes donde colocamos distintos elementos o 
+en este caso, datos, como números, strings, etc, sobre los cuales podemos realizar cambios. Cada elemento 
+se denomina como tal, elementos, y los estantes representan los índices, es decir, la posición numérica que 
+ocupa cada elemento.
