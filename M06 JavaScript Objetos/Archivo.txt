@@ -1,0 +1,12 @@
+Objetos: Podemos comparar los objetos con carpetas anilladas a las cuales vamos agregando hojas a medida que 
+añadimos datos o propiedades. Cada hoja tiene dos carillas, una representa la clave y la otra representa el 
+valor. No podemos tener claves iguales pero varias claves pueden tener el mismo valor.
+Propiedades: en este caso, cada hoja, está compuesta por dos carillas, es decir, par clave:valor.
+Métodos: son funciones dentro de cada objeto, en este caso, podemos compararlo con pegar notas de colores en 
+cada carilla correspondiente al valor.
+Bucle for in: podemos compararlo con una persona encargada de leer toda la carpeta u objeto, para luego informar
+sobre su contenido.
+Notación de puntos vs notación de corchetes: Ambas formas sirven para acceder a un objeto, lo unico que cambia 
+es la forma en que escribimos cada notación. Podemos compararlo con marcadores de dos colores (verde para 
+notación de puntos  y rojo para corchetes) en cada hoja, ambas nos ayudan a llegar a la información o dato 
+que estamos buscando.
