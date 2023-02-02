@@ -1,0 +1,6 @@
+Prototipo: podemos comparar los prototipos con un arbol genealógico familiar, en el cual los miembros comparten 
+características que pasan a la siguente generación. Un prototipo es un mecanismo por el cual los objetos o 
+elementos extiende sus propiedades y métodos.
+Constructores: Podemos comparar los constructores con una receta única familiar, que solo conocen los miembros 
+de un linaje y va pasando de generación a generación, a esta receta solo pueden  acceder los miembros del árbol 
+genealógico (prototipo)para mejorarla o modificarla.
