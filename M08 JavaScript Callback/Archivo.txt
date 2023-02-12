@@ -1,0 +1,4 @@
+Callback: Es una función que pasamos como argumento a otra función. Podemos comparar un callback con una serie 
+de netflix en la cual como sabemos, el capitulo final no puede reproducirse sin antes haber reproducido los 
+capitulos anteriores, de lo contrario no tendría sentido, en este ejemplo, un callback sería como el primer 
+episodio, que al reproducirse, luego de este, podemos reproducir el siguiente y así sucesivamente. 
